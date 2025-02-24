@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo - Arthur Nantes Trento</title>
+    <style>
+      
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+       
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
+        }
+
+       
+        h1 {
+            font-size: 2.5rem;
+            color: #333;
+            text-align: center;
+            margin-bottom: 20px;
+            font-weight: 700;
+        }
+
+    
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+       
+        .section {
+            background-color:   #e6e6e6;
+            margin-bottom: 20px;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .section h2 {
+            font-size: 1.8rem;
+            color: #333;
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+
+        .section p {
+            font-size: 1.2rem;
+            color: #555;
+            line-height: 1.5;
+        }
+
+        .section ul {
+            list-style-type: none;
+            padding-left: 20px;
+        }
+
+        .section ul li {
+            font-size: 1.2rem;
+            color: #555;
+            margin-bottom: 10px;
+        }
+
+   
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+
+        .section:last-child {
+            margin-bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Currículo - Arthur Nantes Trento</h1>
+
+    <div class="container">
+    
+        <div class="section">
+            <h2>Experiência:</h2>
+            <p>Busco experiência com alguma oportunidade de trabalho. Estou aberto a novos desafios e aprendizado contínuo.</p>
+        </div>
+
+        <div class="section">
+            <h2>Cursos:</h2>
+            <ul>
+                <li>Udemy - Python</li>
+            </ul>
+            <ul>
+                <li>ATLAS - Ingles</li>
+            </ul>
+            
+        </div>
+
+  
+        <div class="section">
+            <h2>Habilidades:</h2>
+            <ul>
+                <li>Relacionamento e comunicação</li>
+                <li>Pensamento criativo e adaptabilidade</li>
+                <li>Autoconfiança e proatividade</li>
+                <li>Trabalho em equipe e colaboração</li>
+                <li>Conhecimento técnico e aprendizado contínuo</li>
+                <li>Liderança e negociação</li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h2>Aplicações:</h2>
+            <ul>
+                <li>Área de JavaScript, HTML</li>
+            </ul>
+            
+        </div>
+        
+        <div class="section">
+            <h2>Projetos:</h2>
+            <ul>
+                <li>Dino Game - Com Arduino UNO</li>
+            </ul>
+            <ul>
+                <li>Projeto com C++ - Software de banco</li>
+            </ul>
+            
+        </div>
+    </div>
+
+</body>
+</html>
